@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.input-group, .select-group {
+    margin-bottom: 10px;
+}
+
+.input-group label, .select-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.select-group select {
+    width: 100%;
+    padding: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.resultado {
+    margin-top: 20px;
+}
+
+.resultado span {
+    font-weight: bold;
+}
